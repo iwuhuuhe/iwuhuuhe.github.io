@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://iwuhuuhe.github.io/EpI/sitemap_index.txt
+Sitemap: https://iwuhuuhe.github.io/Lwc/sitemap_index.txt
+Sitemap: https://iwuhuuhe.github.io/UcS/sitemap_index.txt
+Sitemap: https://iwuhuuhe.github.io/rdg/sitemap_index.txt
